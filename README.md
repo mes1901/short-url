@@ -1,6 +1,6 @@
 ### Short URL Creator
 
-1. Clone the repository git clone git@github.com/mes1901/short-url.git
+1. Clone the repository git clone https://github.com/mes1901/short-url.git
 2. cd short-url
 3. cp .env.example .env
 4. composer install
