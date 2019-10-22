@@ -1,4 +1,4 @@
-##Short URL Creator
+### Short URL Creator
 
 1. Clone the repository git clone git@github.com/mes1901/short-url.git
 2. cd short-url
